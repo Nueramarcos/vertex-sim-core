@@ -1,0 +1,19 @@
+
+## Quick start
+Run `cargo test` to execute the tests for the project.
+This repository provides a high-performance Rust simulation engine with a GDExtension bridge, designed for memory-safe, deterministic, and multi-threaded physics/data simulations in Godot.
+
+### Run the Simulation Engine
+To run the simulation engine, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Nueramarcos/vertex-sim-core.git
+   cd vertex-sim-core
+   ```
+
+2. Build and run the project:
+   ```sh
+   cargo build
+   cargo run
+   ```

@@ -1,0 +1,10 @@
+
+### Overview
+This project provides a high-performance simulation engine written in Rust, designed for memory safety, determinism, and multi-threading. It includes an ECS-style entity-component system (ECS) for managing entities and their components, as well as a tick-based simulation loop. The engine also supports integration with Godot through GDExtension.
+
+### Key Features
+- **ECS Architecture**: Entities are composed of components, allowing for flexible and efficient data management.
+- **Tick Simulation**: The engine runs on a fixed time step, ensuring consistent behavior across different hardware.
+- **GDExtension Support**: Integrate the simulation engine into Godot games using GDExtension.
+
+For more detailed information and examples, please refer to the [documentation](https://github.com/Nueramarcos/vertex-sim-core/wiki).

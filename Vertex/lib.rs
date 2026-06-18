@@ -258,4 +258,11 @@ mod tests {
         sim.reset();
         assert_eq!(sim.state.tick, 0);
     }
+
+    #[test]
+    fn test_default_config_values() {
+        let config = SimConfig::default();
+        assert_eq!(config.max_ticks, 1_000);
+        assert_eq!(config.time_step, 0.016);
+    }
 }

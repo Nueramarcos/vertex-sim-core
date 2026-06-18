@@ -17,4 +17,3 @@ Thank you for your interest in contributing to Vertex-Sim-Core! We welcome contr
 ## Running Tests
 
 Before submitting your pull request, make sure to run the tests to ensure that your changes do not break existing functionality.
-

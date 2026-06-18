@@ -1,6 +1,0 @@
-
-### Overview
-This repository contains a high-performance Rust simulation engine designed for memory-safe, deterministic, and multi-threaded physics/data simulations. The engine is built using an ECS (Entity-Component-System) architecture, which allows for efficient management of entities and their components. Additionally, the engine includes support for GDExtension, enabling it to be used within the Godot game engine.
-
-## Contributing
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.

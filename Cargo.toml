@@ -3,6 +3,8 @@ name = "vertex-sim-core"
 version = "0.1.0"
 edition = "2018"
 
+description = "A simulation core library for vertex-based systems."
+
 [dependencies]
 
 [lib]

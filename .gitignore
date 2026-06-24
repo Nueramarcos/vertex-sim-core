@@ -24,3 +24,10 @@ target
 # Add Cargo.lock to .gitignore
 Cargo.lock
 /target/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.issue-agent-venv/
+dist/
+*.egg-info/

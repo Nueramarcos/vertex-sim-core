@@ -23,3 +23,7 @@ debug
 
 # Add Cargo.lock to .gitignore
 Cargo.lock
+.issue-agent-venv/
+.venv/
+__pycache__/
+.pytest_cache/
